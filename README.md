@@ -20,9 +20,9 @@ Ferdowsi University of Mashhad Data Structures Linked linear list java
 <!-- https://ileriayo.github.io/markdown-badges/ -->
 
 <!-- Contributors -->
-[contributors-shield]: https://img.shields.io/github/contributors/javidchaji/FUM-Web-Programming-Hotel-Search-UI.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/javidchaji/FUM-Data-Structures-Linked-Linear-List-Java.svg?style=for-the-badge
 
-[contributors-url]: https://github.com/javidchaji/FUM-Web-Programming-Hotel-Search-UI/graphs/contributors
+[contributors-url]: https://github.com/javidchaji/FUM-Data-Structures-Linked-Linear-List-Java/graphs/contributors
 
 <!-- Forks -->
 [forks-shield]: https://img.shields.io/github/forks/javidchaji/FUM-Web-Programming-Hotel-Search-UI.svg?style=for-the-badge
