@@ -43,9 +43,9 @@ Ferdowsi University of Mashhad Data Structures Linked linear list java
 
 
 <!-- License -->
-[license-shield]: https://img.shields.io/github/license/javidchaji/FUM-Web-Programming-Hotel-Search-UI.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/javidchaji/FUM-Data-Structures-Linked-Linear-List-Java.svg?style=for-the-badge
 
-[license-url]: https://github.com/javidchaji/FUM-Web-Programming-Hotel-Search-UI/blob/master/LICENSE
+[license-url]: https://github.com/javidchaji/FUM-Data-Structures-Linked-Linear-List-Java/blob/master/LICENSE
 
 
 <!-- Linkedin -->
