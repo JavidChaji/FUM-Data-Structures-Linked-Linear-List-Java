@@ -136,15 +136,15 @@ Use this space to list resources you find helpful and would like to give credit 
 
 
 <!-- Stars -->
-[stars-shield]: https://img.shields.io/github/stars/javidchaji/FUM-Data-Structures-Linked-Linear-List-Java.svg?style=for-the-badge
+[Stars-Shield]: https://img.shields.io/github/stars/javidchaji/FUM-Data-Structures-Linked-Linear-List-Java.svg?style=for-the-badge
 
-[stars-url]: https://github.com/javidchaji/FUM-Data-Structures-Linked-Linear-List-Java/stargazers
+[Stars-URL]: https://github.com/javidchaji/FUM-Data-Structures-Linked-Linear-List-Java/stargazers
 
 
 <!-- Issues -->
-[issues-shield]: https://img.shields.io/github/issues/javidchaji/FUM-Data-Structures-Linked-Linear-List-Java.svg?style=for-the-badge
+[Issues-Shield]: https://img.shields.io/github/issues/javidchaji/FUM-Data-Structures-Linked-Linear-List-Java.svg?style=for-the-badge
 
-[issues-url]: https://github.com/javidchaji/FUM-Data-Structures-Linked-Linear-List-Java/issues
+[Issues-URL]: https://github.com/javidchaji/FUM-Data-Structures-Linked-Linear-List-Java/issues
 
 
 <!-- License -->
