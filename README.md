@@ -125,9 +125,9 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- https://ileriayo.github.io/markdown-badges/ -->
 
 <!-- Contributors -->
-[contributors-shield]: https://img.shields.io/github/contributors/javidchaji/FUM-Data-Structures-Linked-Linear-List-Java.svg?style=for-the-badge
+[Contributors-Shield]: https://img.shields.io/github/contributors/javidchaji/FUM-Data-Structures-Linked-Linear-List-Java.svg?style=for-the-badge
 
-[contributors-url]: https://github.com/javidchaji/FUM-Data-Structures-Linked-Linear-List-Java/graphs/contributors
+[Contributors-URL]: https://github.com/javidchaji/FUM-Data-Structures-Linked-Linear-List-Java/graphs/contributors
 
 <!-- Forks -->
 [Forks-Shield]: https://img.shields.io/github/forks/javidchaji/FUM-Data-Structures-Linked-Linear-List-Java.svg?style=for-the-badge
