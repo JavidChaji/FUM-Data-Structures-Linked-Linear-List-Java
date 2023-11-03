@@ -9,7 +9,7 @@
 
 
 
-[![LinkedIn][linkedin-shield]][javid-linkedin-URL]
+[![LinkedIn][Linkedin-Shield]][Javid-Linkedin-URL]
 
 # linked-linear-list-java
 
