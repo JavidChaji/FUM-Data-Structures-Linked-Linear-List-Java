@@ -2,8 +2,8 @@
 
 
 [![Contributors][Contributors-Shield]][Contributors-URL]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
+[![Forks][Forks-Shield]][Forks-URL]
+[![Stargazers][Stars-Shield]][Stars-URL]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
