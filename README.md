@@ -130,9 +130,9 @@ Use this space to list resources you find helpful and would like to give credit 
 [contributors-url]: https://github.com/javidchaji/FUM-Data-Structures-Linked-Linear-List-Java/graphs/contributors
 
 <!-- Forks -->
-[forks-shield]: https://img.shields.io/github/forks/javidchaji/FUM-Data-Structures-Linked-Linear-List-Java.svg?style=for-the-badge
+[Forks-Shield]: https://img.shields.io/github/forks/javidchaji/FUM-Data-Structures-Linked-Linear-List-Java.svg?style=for-the-badge
 
-[forks-url]: https://github.com/javidchaji/FUM-Data-Structures-Linked-Linear-List-Java/network/members
+[Forks-URL]: https://github.com/javidchaji/FUM-Data-Structures-Linked-Linear-List-Java/network/members
 
 
 <!-- Stars -->
