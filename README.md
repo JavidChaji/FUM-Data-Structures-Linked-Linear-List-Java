@@ -1,13 +1,10 @@
 <a name="readme-top"></a>
 
-
 [![Contributors][Contributors-Shield]][Contributors-URL]
 [![Forks][Forks-Shield]][Forks-URL]
 [![Stargazers][Stars-Shield]][Stars-URL]
 [![Issues][Issues-Shield]][Issues-URL]
 [![MIT License][License-Shield]][License-URL]
-
-
 
 [![LinkedIn][LinkedIn-Shield]][Javid-LinkedIn-URL]
 
@@ -45,18 +42,13 @@ Ferdowsi University of Mashhad Data Structures Linked linear list java
 
 
 
-
-
 ### Built With
 
 Technologies and Tools Utilized in this Project
 
-
 * [![OpenJDK][OpenJDK-Shield]][OpenJDK-URL]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 
 
@@ -75,8 +67,6 @@ Don't forget to give the project a star! Thanks again!
 5. Open a Pull Request
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 
 
@@ -100,7 +90,6 @@ Project Link: [https://github.com/JavidChaji/FUM-Data-Structures-Linked-Linear-L
 
 
 
-
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
@@ -116,7 +105,6 @@ Use this space to list resources you find helpful and would like to give credit 
 * [React Icons](https://react-icons.github.io/react-icons/search)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 
